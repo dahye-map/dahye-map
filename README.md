@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=Hello%20I'm%20dahye&desc=&fontSize=40&animation=fadeIn)
-###👋  Hi there! I'm Front-end developer.🚀
-### I have experience 7 years of Front-end development.
-<div align="center">
 
+### 👋  Hi there! I'm Front-end developer.🚀
+### I have experience 7 years of Front-end development.
 <br><br>
+
 #### 💪 Skills
 <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
@@ -25,7 +25,6 @@
     <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
     <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
-</div>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahye-map&layout=compact)](https://github.com/dahye-map/github-readme-stats)
