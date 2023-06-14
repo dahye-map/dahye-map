@@ -31,6 +31,8 @@ I have experience 7 years of Front-end development.
     <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahye-map&layout=compact)](https://github.com/dahye-map/github-readme-stats)
+
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahye-map&layout=compact)](https://github.com/dahye-map/github-readme-stats)
 
