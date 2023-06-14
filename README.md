@@ -2,7 +2,7 @@
 
 ### 👋  Hi there! I'm Front-end developer.🚀
 ### I have experience 7 years of Front-end development.
-<br><br>
+<br>
 
 #### 💪 Skills
 <div>
@@ -13,14 +13,13 @@
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/>
 </div>
-<br>
 
 #### ✏Study
 <div>
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/typeform-3178C6?style=flat&logo=typeform&logoColor=white"/>
 </div>
-<br>
+
 #### ⚙Tools
 <div>
     <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
