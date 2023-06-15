@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/>
 </div>
 
 #### ✏Studying
